@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/shreeju/Downloads/GroupMessenger2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9bedb6caf7a506a214f2066fce9c2f8893953c0a">
+        <dex dex="/home/shreeju/Downloads/GroupMessenger2/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_9392c20dd7fa67db62d9814ac994aec148ec2215.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shreeju/Downloads/GroupMessenger2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4f0bd03d57759cf8295846c0fa8ad6b17f22f574">
+        <dex dex="/home/shreeju/Downloads/GroupMessenger2/app/build/intermediates/pre-dexed/debug/instant-run_e937c780840314765cc04b79f0ad4abb52f791b7.jar" />
+    </item>
+
+</items>
